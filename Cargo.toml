@@ -1,0 +1,10 @@
+[package]
+name = "rust-cmd-line"
+version = "0.1.0"
+authors = ["RadoslawWarisch <radoslaw.warisch@brainly.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mockall = "0.7.0"
