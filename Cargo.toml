@@ -1,6 +1,6 @@
 [package]
 name = "rust-cmd-line"
-version = "0.0.1"
+version = "0.0.3"
 authors = ["RadoslawWarisch <r.warisch@gmail.com>"]
 edition = "2018"
 
